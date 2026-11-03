@@ -1,0 +1,108 @@
+[
+ {
+  "name": "clock",
+  "url": "https://24timezones.com/Beijing/time",
+  "wait": 4000,
+  "phrases": [
+   "Wednesday, November 4, 2026",
+   "Current local time in Beijing",
+   "CST"
+  ],
+  "w": 600,
+  "h": 1066
+ },
+ {
+  "name": "hf",
+  "url": "https://huggingface.co/moonshotai",
+  "full": true,
+  "wait": 4000,
+  "phrases": [
+   "Moonshot AI",
+   "Sort:",
+   "moonshotai/Kimi-K3",
+   "Updated Sep 2",
+   "Models"
+  ],
+  "w": 600,
+  "h": 1066
+ },
+ {
+  "name": "blog",
+  "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "full": false,
+  "wait": 6000,
+  "phrases": [
+   "Introducing Kimi K3.1 Pro",
+   "available today on Kimi.ai, Kimi Work, Kimi Code, and the Kimi API",
+   "1-million-token context window",
+   "Full model weights will be released by Nov 4, 2026.",
+   "The full model weights will be released by Nov 4.",
+   "most capable 3T-class open-weight model to date"
+  ],
+  "h": 1066,
+  "w": 600,
+  "scrollTo": 500
+ },
+ {
+  "name": "officechai",
+  "url": "https://officechai.com/ai/kimi-k3-1-pro-places-4th-on-artificial-analysis-intelligence-index-ahead-of-gpt-6-astra-gemini-4-argon/",
+  "full": true,
+  "wait": 5000,
+  "phrases": [
+   "Kimi K3.1 Pro Places 4th On Artificial Analysis Intelligence Index",
+   "Scoring 55 on the index",
+   "2.8 trillion total parameters and 104 billion active parameters",
+   "OCTOBER 23, 2026",
+   "landed in 4th place"
+  ],
+  "w": 600,
+  "h": 1066
+ },
+ {
+  "name": "pr_vllm",
+  "url": "file:///tmp/claude-0/-home-user-webpuck-media/800e7ed9-0c07-5d4d-b816-edd397e2c47c/scratchpad/kimi/raw/pr_vllm.html",
+  "full": true,
+  "w": 600,
+  "wait": 2500,
+  "phrases": [
+   "[Doc] Add Kimi-K3.1 A5 PD deployment guide",
+   "Draft",
+   "eight-node 950DT (A5) PD deployment",
+   "Environment and checkpoint paths and IPs are placeholders.",
+   "This remains a draft pending validation of the required K3.1-enabled build",
+   "opened this pull request on"
+  ],
+  "h": 1066
+ },
+ {
+  "name": "pr_primus",
+  "url": "file:///tmp/claude-0/-home-user-webpuck-media/800e7ed9-0c07-5d4d-b816-edd397e2c47c/scratchpad/kimi/raw/pr_primus.html",
+  "full": true,
+  "w": 600,
+  "wait": 2500,
+  "phrases": [
+   "feat(kimi_k3): Kimi K3.1 Pro preset",
+   "Draft",
+   "weights and config.json announced for 2026-11-04",
+   "the K3.1 Pro preset",
+   "until the K3.1 Pro config.json is public",
+   "opened this pull request on"
+  ],
+  "h": 1066
+ },
+ {
+  "name": "santage",
+  "url": "https://santageai.com/news/2026/10/17/china-ai-export-controls-23-technologies",
+  "full": true,
+  "wait": 4000,
+  "phrases": [
+   "China Targets 2-Trillion-Parameter AI Models in Proposed Export Controls",
+   "holding 2 trillion or more parameters",
+   "future open releases fall under automatic licensing",
+   "Future open-source releases of covered models get",
+   "October 17, 2026"
+  ],
+  "w": 600,
+  "h": 1066
+ }
+]
